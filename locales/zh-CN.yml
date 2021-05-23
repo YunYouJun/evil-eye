@@ -1,0 +1,16 @@
+button:
+  about: 关于
+  back: 返回
+  go: 确定
+  home: 首页
+  toggle_dark: 切换深色模式
+  toggle_langs: 切换语言
+intro:
+  title: 邪王真眼
+  desc: 消失吧！这个世界！
+  dynamic-route: 动态路由演示
+  hi: 你好，{name}
+  whats-your-name: 输入你的名字
+not-found: 未找到页面
+about:
+  title: 关于
